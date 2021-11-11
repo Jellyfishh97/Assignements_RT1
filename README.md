@@ -3,4 +3,4 @@
 
 ## Assignment1:
 
-All the material related to the first assignment is to be found in the folder **Assignment1**
+All the material related to the first assignment is to be found in the folder **Assignment1**.
